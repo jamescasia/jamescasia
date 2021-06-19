@@ -33,7 +33,8 @@ I am a passionate student software engineer with experience in building beautifu
 * React Cebu Hackathon 3rd Place
 ## Links
 * [Website portfolio](jamescasia.github.io)
-* [resume(pdf)](sss.com)
+* [Full resume](https://hackmd.io/x86QST5CQuWbA905m6n3Mw?view)
+* [resume(pdf)](https://drive.google.com/file/d/11p0gLXFfkh573WpTfrJ-shzLOQmm36kq/view)
 * [kaggle](https://www.kaggle.com/wayperwayp)
 * [github](https://github.com/jamescasia)
 * [linkedin](https://www.linkedin.com/in/james-casia-801a561b6/)
