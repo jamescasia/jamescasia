@@ -17,6 +17,7 @@ I am a passionate student software engineer with experience in building beautifu
 * University of the Philippines Cebu - BS Computer Science
 
 ## Experience
+* [Fliptoons](fliptoons.ph) Team Lead & Frontend Developer
 * Freelance Mobile Developer (2020)
 * Google Developer Students Club UP Cebu Chapter Core Team (2020)
 ## Licenses & Certificates
