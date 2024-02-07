@@ -1,7 +1,8 @@
 # James Casia 
+**[jamescasia.com](https://www.jamescasia.com)**
 **jamescasia99@gmail.com** 
 
-I am a passionate student software engineer with experience in building beautiful apps from design to code..
+I am a passionate software engineer with experience in building beautiful apps from design to code..
  
 ## Links
 * [Linkedin](https://www.linkedin.com/in/james-casia-801a561b6/)
